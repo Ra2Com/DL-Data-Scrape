@@ -1,0 +1,1811 @@
+[
+    {
+        "id": 0,
+        "name": "armor_upgrade_base",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 0,
+        "type": "armor",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "armor_upgrade_t1",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 1,
+        "type": "armor",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "armor_upgrade_t2",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 2,
+        "type": "armor",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "armor_upgrade_t3",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 3,
+        "type": "armor",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "armor_upgrade_t4",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "armor",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "weapon_upgrade_base",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 0,
+        "type": "weapon",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "weapon_upgrade_t1",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 1,
+        "type": "weapon",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "weapon_upgrade_t2",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 2,
+        "type": "weapon",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "weapon_upgrade_t3",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 3,
+        "type": "weapon",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "weapon_upgrade_t4",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "weapon",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "tech_upgrade_base",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 0,
+        "type": "tech",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "tech_upgrade_t1",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 1,
+        "type": "tech",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "tech_upgrade_t2",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 2,
+        "type": "tech",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "tech_upgrade_t3",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 3,
+        "type": "tech",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "tech_upgrade_t4",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "tech",
+        "image": ""
+    },
+    {
+        "id": 1548066885,
+        "name": "upgrade_clip_size",
+        "localization": "基本弹匣",
+        "description": "增加弹药。",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/clip_size.png"
+    },
+    {
+        "id": 1009965641,
+        "name": "upgrade_non_player_bonus",
+        "localization": "战怪达人",
+        "description": "在攻击步兵、中立单位和 boss 时，获得额外 35% 的武器伤害。",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/reaper_rounds.png"
+    },
+    {
+        "id": 1248737459,
+        "name": "upgrade_ammo_scavenger",
+        "localization": "拾弹能手",
+        "description": "每当你获得或拒绝一个魂魄时，都会获得弹药，并可叠加元灵力量。",
+        "tier": 1,
+        "type": "tech",
+        "image": "items/mods_weapon/ammo_scavenger.png"
+    },
+    {
+        "id": 3535785353,
+        "name": "upgrade_clip_size_fixed",
+        "localization": "扩容弹匣",
+        "description": "增加弹药。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/clip_size.png"
+    },
+    {
+        "id": 2861048274,
+        "name": "upgrade_clip_size_fixed_t3",
+        "localization": "超大弹匣",
+        "description": "极大增加弹药。",
+        "tier": 3,
+        "type": "weapon",
+        "image": ""
+    },
+    {
+        "id": 811521119,
+        "name": "upgrade_chain_lightning",
+        "localization": "特斯拉效应",
+        "description": "你的子弹有几率会电击你的目标。 电击会跳到附近的敌人身上。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/electrified_bullets.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_galvanic_storm",
+        "localization": "Galvanic Storm",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/electrified_bullets.png"
+    },
+    {
+        "id": 2678489038,
+        "name": "upgrade_hollow_point_rounds",
+        "localization": "天堂门票",
+        "description": "当你的生命值高于 60% 时，造成额外的武器伤害。",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/hollow_point.png"
+    },
+    {
+        "id": 2064029594,
+        "name": "upgrade_pristine_emblem",
+        "localization": "无暇勋章",
+        "description": "你的攻击会对生命值高于 50% 的敌人造成额外的武器伤害。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/pristine_emblem.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_stabilizer",
+        "localization": "稳稳当当",
+        "description": "移除射击时的移动速度损失 ，并增加子弹速度。",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/stabilizer.png"
+    },
+    {
+        "id": 3077079169,
+        "name": "upgrade_high_velocity_mag",
+        "localization": "高速弹匣",
+        "description": "未找到相关描述",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/high_velocity_mag.png"
+    },
+    {
+        "id": 1437614329,
+        "name": "upgrade_lifestrike_gauntlets",
+        "localization": "近战吸血",
+        "description": "你的近战攻击可为你治疗，治疗量为所造成近战伤害的 20% 加上 90。如果是对非英雄造成伤害，则治疗量为原本的 40%。",
+        "tier": 1,
+        "type": "armor",
+        "image": "items/mods_weapon/lifestrike_gauntlets.png"
+    },
+    {
+        "id": 1342610602,
+        "name": "upgrade_close_range",
+        "localization": "近战火拼",
+        "description": "当和目标近距离作战时，造成额外的武器伤害。",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/close_range.png"
+    },
+    {
+        "id": 3331811235,
+        "name": "upgrade_long_range",
+        "localization": "远击威力",
+        "description": "当和目标距离大于某最低距离时，造成额外的武器伤害。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/long_range.png"
+    },
+    {
+        "id": 393974127,
+        "name": "upgrade_slowing_bullets",
+        "localization": "减速弹",
+        "description": "你的子弹会施加移动减速效果。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/slowing_bullets.png"
+    },
+    {
+        "id": 2037039379,
+        "name": "upgrade_inhibitor",
+        "localization": "抑制术",
+        "description": "你的子弹击中目标时会施加移动减速，并且减少目标的输出伤害。",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_weapon/inhibitor.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_small_attack_speed",
+        "localization": "基本射速",
+        "description": "增加你的射速。",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/fire_rate.png"
+    },
+    {
+        "id": 1144549437,
+        "name": "upgrade_tech_defense_shredders",
+        "localization": "魂飞魄散",
+        "description": "你的子弹会施加一个减益效果，增加你对目标的元灵伤害，并让你可以对其进行元灵吸血。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/tech_resist_shredder.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_attack_speed_1",
+        "localization": "射速",
+        "description": "增加你的射速。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/fire_rate_plus.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_nearby_enemy_boost",
+        "localization": "狂飙激战",
+        "description": "当附近有两个或更多敌方英雄时，获得额外武器伤害和射速。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/adrenaline_rush.png"
+    },
+    {
+        "id": 2108215830,
+        "name": "upgrade_dps_aura",
+        "localization": "英雄光环",
+        "description": "为附近的下属提供射速。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/bullet_damage_aura.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_armor_reduction_debuff",
+        "localization": "破防术",
+        "description": "你的子弹会将目标的子弹抗性降低 -60%，持续 8s，并对子弹护盾造成额外伤害。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/armor_breaking_bullets.png"
+    },
+    {
+        "id": 775925321,
+        "name": "upgrade_weapon_detention_ammo",
+        "localization": "寸步难行",
+        "description": "你的子弹会在敌人身上累积，使他们被束缚在当前位置。",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/detention_rounds.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_height_advantage",
+        "localization": "居高临下",
+        "description": "攻击位置在你之下的目标时，获得额外 50% 武器伤害。",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/height_advantage.png"
+    },
+    {
+        "id": 619484391,
+        "name": "upgrade_targeted_silence",
+        "localization": "沉默符文",
+        "description": "发射投射物，使目标 沉默并受到伤害。沉默不会打断施法技能。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_weapon/targeted_silence.png"
+    },
+    {
+        "id": 1113837674,
+        "name": "upgrade_proc_silence",
+        "localization": "电子脉冲弹",
+        "description": "你的子弹会在敌方英雄身上充能一波电磁脉冲，使目标无法使用技能。攻击对象在效果结束后，会对电磁脉冲子弹具有 4s 的免疫时间。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/emp_bullets.png"
+    },
+    {
+        "id": 3133167885,
+        "name": "upgrade_silencer",
+        "localization": "沉默大法",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/emp_bullets.png"
+    },
+    {
+        "id": 1503218332,
+        "name": "upgrade_proc_disarm",
+        "localization": "乖乖缴械",
+        "description": "你的子弹会让敌人缴械，使他们无法使用武器射击。攻击对象在缴械效果消失后，会有 3s 的时间对缴械的子弹免疫。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_tech/disarm.png"
+    },
+    {
+        "id": 1414319208,
+        "name": "upgrade_berserker",
+        "localization": "愈挫愈勇",
+        "description": "当你受到持续伤害时，你的武器伤害会增加。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/berserker.png"
+    },
+    {
+        "id": 339443430,
+        "name": "upgrade_fervor",
+        "localization": "末路狂徒",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/fervor.png"
+    },
+    {
+        "id": 1282141666,
+        "name": "upgrade_siphon_bullets",
+        "localization": "攫命弹",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/siphon_bullets.png"
+    },
+    {
+        "id": 2010028405,
+        "name": "upgrade_headshot_booster",
+        "localization": "爆头奖励",
+        "description": "如果爆头，将造成额外武器伤害。",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/headshot_booster.png"
+    },
+    {
+        "id": 2152872419,
+        "name": "upgrade_sharpshooter",
+        "localization": "神枪手",
+        "description": "当和目标距离大于某最低距离时，造成额外的武器伤害。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/longshot.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_headhunter",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/headhunter.png"
+    },
+    {
+        "id": 3884003354,
+        "name": "upgrade_banshee_slugs",
+        "localization": "爆头破防",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/banshee_slugs.png"
+    },
+    {
+        "id": 184951197,
+        "name": "upgrade_proc_tech_damage",
+        "localization": "Magitech Rounds",
+        "description": "你的子弹还会造成基础子弹伤害 [1] 的元灵伤害。该物品会按 5x 的系数随元灵力量增强。霰弹枪的伤害会在每个弹丸之间分摊。此效果每 1s 只能触发一次。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_tech/tech_imbued_bullets.png"
+    },
+    {
+        "id": 395867183,
+        "name": "upgrade_crackshot",
+        "localization": "谜之一枪",
+        "description": "你的下一颗子弹将造成额外元灵伤害。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/explosive_bullets.png"
+    },
+    {
+        "id": 1396247347,
+        "name": "upgrade_critshot",
+        "localization": "天助我也",
+        "description": "你的子弹有机会被强化，使其在击中目标时造成额外伤害并让目标减速。",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/crit_damage.png"
+    },
+    {
+        "id": 2095565695,
+        "name": "upgrade_close_quarter_combat",
+        "localization": "近身猛击",
+        "description": "当你与目标近距离交战时，武器伤害增加，并且你的子弹会施加移动减速效果。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/point_blank.png"
+    },
+    {
+        "id": 4284855775,
+        "name": "upgrade_clip_size_2",
+        "localization": "大号弹匣",
+        "description": "大幅增加弹药。",
+        "tier": 2,
+        "type": "weapon",
+        "image": ""
+    },
+    {
+        "id": 0,
+        "name": "upgrade_clip_size_3",
+        "localization": "超大弹匣",
+        "description": "极大增加弹药。",
+        "tier": 3,
+        "type": "weapon",
+        "image": ""
+    },
+    {
+        "id": 3696726732,
+        "name": "upgrade_toxic_bullets",
+        "localization": "毒弹",
+        "description": "你的子弹会在敌人身上累积伤害，致使其流血，令其在一段时间内损失当前生命值的一定百分比。同时对流血目标施加治疗减少效果。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/serrated_bullets.png"
+    },
+    {
+        "id": 3791295884,
+        "name": "upgrade_attack_speed_2",
+        "localization": "射速升级",
+        "description": "增加你的射速。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/fire_rate_plus_plus.png"
+    },
+    {
+        "id": 4190165534,
+        "name": "upgrade_drum_magazine",
+        "localization": "弹鼓",
+        "description": "提供大量弹药奖励，并增加装填速度。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/auto_reloader.png"
+    },
+    {
+        "id": 2480592370,
+        "name": "upgrade_ricochet",
+        "localization": "反弹伤害",
+        "description": "你的子弹会反弹到目标附近的敌人身上， 施加所有子弹特效并按原始伤害的一定百分比施加伤害。",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/ricochet.png"
+    },
+    {
+        "id": 3633614685,
+        "name": "upgrade_health",
+        "localization": "元灵吸血",
+        "description": "增加生命值。",
+        "tier": 1,
+        "type": "armor",
+        "image": "items/mods_armor/health.png"
+    },
+    {
+        "id": 1448361452,
+        "name": "upgrade_toughness_3",
+        "localization": "Toughness",
+        "description": "增加生命值和生命恢复。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/base_armor.png"
+    },
+    {
+        "id": 3713423303,
+        "name": "upgrade_bullet_armor",
+        "localization": "猎人光环",
+        "description": "减少受到的子弹伤害。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/bullet_armor.png"
+    },
+    {
+        "id": 223594321,
+        "name": "upgrade_tech_armor",
+        "localization": "Spirit Armor Reduction Aura",
+        "description": "减少你受到的元灵技能伤害。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/tech_armor.png"
+    },
+    {
+        "id": 1575167590,
+        "name": "upgrade_health_regen_1",
+        "localization": "生命值恢复",
+        "description": "增加生命恢复。",
+        "tier": 1,
+        "type": "armor",
+        "image": "items/mods_armor/health_regen.png"
+    },
+    {
+        "id": 499683006,
+        "name": "upgrade_vampire",
+        "localization": "子弹吸血",
+        "description": "你的子弹会恢复生命，治疗量为它们对敌人造成伤害的一定百分比。对非英雄目标的效果减半。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/health_stealing_bullets.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_double_jump",
+        "localization": "二段跳",
+        "description": "允许你在空中进行额外的跳跃。",
+        "tier": 1,
+        "type": "armor",
+        "image": "items/mods_armor/double_jump.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_health_regen_aura",
+        "localization": "Healing Aura",
+        "description": "每 3s 自动为自己和附近的友军提供一次治疗。该效果不可叠加。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_armor/health_regen_aura.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_combo_breaker",
+        "localization": "Combo Breaker",
+        "description": "移除所有负面效果并治疗自己。可以在眩晕状态下使用。",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_armor/tech_purge.png"
+    },
+    {
+        "id": 1047818222,
+        "name": "upgrade_debuff_reducer",
+        "localization": "减益缩短术",
+        "description": "减少对你施加的所有减益效果的持续时间。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/debuff_reducer.png"
+    },
+    {
+        "id": 3731635960,
+        "name": "upgrade_reduce_debuff_duration",
+        "localization": "减益消除术",
+        "description": "减少对你施加的所有减益效果的持续时间。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_armor/debuff_remover.png"
+    },
+    {
+        "id": 1825391146,
+        "name": "upgrade_high_impact_armor",
+        "localization": "重伤护盾",
+        "description": "提供对高伤害子弹的保护。超过阈值的所有子弹伤害部分将减少 60%。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/bullet_armor.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_slow_immunity",
+        "localization": "未找到道具",
+        "description": "使用时清除所有束缚和禁锢，并使你在持续时间内对减速效果免疫。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_utility/sprint_booster.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_bullet_armor_2",
+        "localization": "高级子弹护盾",
+        "description": "减少受到的子弹伤害。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_armor/bullet_armor_plus.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_weapon_power_and_health_drain",
+        "localization": "Overdrive",
+        "description": "在消耗自己生命值的同时，增加你的勇气。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/overdrive.png"
+    },
+    {
+        "id": 1319649491,
+        "name": "upgrade_active_bullet_shield",
+        "localization": "Shield Rush",
+        "description": "为你、附近的友方英雄以及他们的小兵提供临时的子弹护盾。",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_armor/bullet_shield.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_ablative_coat",
+        "localization": "Ablative Coat",
+        "description": "提供子弹抗性，但每次受到武器伤害时都会损失一部分。损失每 1s 只能发生一次。战斗中断后，子弹抗性会恢复。",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_armor/bullet_shield.png"
+    },
+    {
+        "id": 2163598980,
+        "name": "upgrade_tech_purge",
+        "localization": "高级元灵护盾",
+        "description": "未找到相关描述",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_armor/tech_purge.png"
+    },
+    {
+        "id": 3140772621,
+        "name": "upgrade_improved_bullet_armor",
+        "localization": "高级子弹护盾",
+        "description": "减少受到的子弹伤害。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_armor/improved_bullet_armor.png"
+    },
+    {
+        "id": 1378931225,
+        "name": "upgrade_metal_skin",
+        "localization": "铜墙铁壁",
+        "description": "获得对子弹和近战攻击的免疫。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_armor/metal_skin.png"
+    },
+    {
+        "id": 2566692615,
+        "name": "upgrade_healing_booster",
+        "localization": "治疗强化",
+        "description": "使你的治疗效果提升 25%。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/healing_booster.png"
+    },
+    {
+        "id": 3585132399,
+        "name": "upgrade_chonky",
+        "localization": "坚毅之心",
+        "description": "在未受到伤害超过 11s 后，获得 4% 的最大生命值恢复率。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_armor/revitalizer.png"
+    },
+    {
+        "id": 865846625,
+        "name": "upgrade_damage_recycler",
+        "localization": "吸血蝗",
+        "description": "降低敌人施加的治疗减少效果。",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_armor/leech.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_bullet_damage_reduction_aura",
+        "localization": "Weapon Jammer",
+        "description": "降低附近所有敌人的射速。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/weapon_jammer.png"
+    },
+    {
+        "id": 3399065363,
+        "name": "upgrade_sprint_booster",
+        "localization": "疾跑靴",
+        "description": "随着时间的推移，提高你的前进移动速度。受到伤害会使效果重置1.5s。",
+        "tier": 1,
+        "type": "armor",
+        "image": "items/mods_utility/sprint_booster.png"
+    },
+    {
+        "id": 2447176615,
+        "name": "upgrade_cardio_calibrator",
+        "localization": "疾速不怠",
+        "description": "降低敌人施加的移动减速效果。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_utility/sprint_booster.png"
+    },
+    {
+        "id": 334300056,
+        "name": "upgrade_superior_stamina",
+        "localization": "超凡耐力",
+        "description": "未找到相关描述",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_armor/superior_stamina.png"
+    },
+    {
+        "id": 668299740,
+        "name": "upgrade_rapid_rounds",
+        "localization": "快手连发",
+        "description": "未找到相关描述",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/rapid_rounds.png"
+    },
+    {
+        "id": 4139877411,
+        "name": "upgrade_improved_stamina",
+        "localization": "耐力补给",
+        "description": "未找到相关描述",
+        "tier": 1,
+        "type": "armor",
+        "image": "items/mods_armor/improved_stamina.png"
+    },
+    {
+        "id": 2481177645,
+        "name": "upgrade_bullet_armor_reduction_aura",
+        "localization": "猎人光环",
+        "description": "降低附近敌人的子弹抗性和射速。若附近只有一名敌方英雄，则此效果将为原本的三倍。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_armor/bullet_armor_reduction_aura.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_camouflage",
+        "localization": "迷彩服",
+        "description": "变为隐身状态，并通过不移动或不攻击来维持该状态。受到伤害不会暴露该英雄。隐身时会获得额外恢复。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/camouflage_suit.png"
+    },
+    {
+        "id": 3038950099,
+        "name": "upgrade_regenerative_armor",
+        "localization": "Regenerative Armor",
+        "description": "在受到英雄子的弹伤害时，获得短暂的生命值恢复。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/last_stand.png"
+    },
+    {
+        "id": 1235347618,
+        "name": "upgrade_regenerating_bullet_shield",
+        "localization": "防弹神盾",
+        "description": "在你拥有子弹护盾 时，获得武器伤害和射速。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/bullet_shield.png"
+    },
+    {
+        "id": 3970837787,
+        "name": "upgrade_magic_shield",
+        "localization": "灵力魔障",
+        "description": "在你拥有元灵护盾时，获得额外的元灵力量和冷却时间减少。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_tech/tech_shield_pulse.png"
+    },
+    {
+        "id": 968099481,
+        "name": "upgrade_improved_spirit",
+        "localization": "灵力扩增",
+        "description": "未找到相关描述",
+        "tier": 1,
+        "type": "tech",
+        "image": "items/mods_tech/tech_damage.png"
+    },
+    {
+        "id": 7409189,
+        "name": "upgrade_soaring_spirit",
+        "localization": "灵力高涨",
+        "description": "未找到相关描述",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/soaring_spirit.png"
+    },
+    {
+        "id": 2226497419,
+        "name": "upgrade_tech_overflow",
+        "localization": "元灵漫溢",
+        "description": "对敌方英雄一顿连射，获取额外的元灵力量。",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/magic_overflow.png"
+    },
+    {
+        "id": 3361075077,
+        "name": "upgrade_return_fire",
+        "localization": "以眼还眼",
+        "description": "自动射出一发子弹，目标是任何使用技能或武器对你造成伤害的攻击者。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_tech/return_fire.png"
+    },
+    {
+        "id": 1193964439,
+        "name": "upgrade_tech_range",
+        "localization": "手到擒来",
+        "description": "增加你的技能和物品的施放范围和效果半径。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/spiritual_dominion.png"
+    },
+    {
+        "id": 754480263,
+        "name": "upgrade_magic_reach",
+        "localization": "触手可及",
+        "description": "增加你的技能和物品的施放范围和效果半径。",
+        "tier": 1,
+        "type": "tech",
+        "image": "items/mods_tech/tech_range.png"
+    },
+    {
+        "id": 3776945997,
+        "name": "upgrade_extra_charge",
+        "localization": "充能喜加一",
+        "description": "让你技能的最大充能次数增加一次。",
+        "tier": 1,
+        "type": "tech",
+        "image": "items/mods_tech/extra_charge.png"
+    },
+    {
+        "id": 876563814,
+        "name": "upgrade_health_stealing_magic",
+        "localization": "元灵吸血",
+        "description": "你的元灵物品和技能会对你进行治疗，治疗量为其所造成伤害的一定百分比。对非英雄造成伤害时，治疗量降低；如果攻击的是物体则无治疗作用。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_tech/health_stealing_tech.png"
+    },
+    {
+        "id": 2645639421,
+        "name": "upgrade_disarm",
+        "localization": "Drain Will",
+        "description": "发射一个投掷物，减少目标的射速并偷取元灵。",
+        "tier": 1,
+        "type": "tech",
+        "image": "items/mods_tech/disarm.png"
+    },
+    {
+        "id": 2971868509,
+        "name": "upgrade_bullet_resist_shredder",
+        "localization": "子弹抗性粉碎机",
+        "description": "当你造成元灵伤害时，会减少敌人的子弹抗性。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/bullet_resist_shredder.png"
+    },
+    {
+        "id": 869090587,
+        "name": "upgrade_tech_bleed",
+        "localization": "谜之回响",
+        "description": "加强一项技能，使用该技能时在目标四周一定半径范围内施加减速效果，并在短暂延迟后，按技能所造成伤害的一定比例对目标周围的敌人造成额外伤害。",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/magic_reverb.png"
+    },
+    {
+        "id": 1998374645,
+        "name": "upgrade_magic_burst",
+        "localization": "谜之连伤",
+        "description": "如果技能在一次攻击中造成 80 或更多伤害，则会造成额外的元灵伤害。",
+        "tier": 1,
+        "type": "tech",
+        "image": "items/mods_tech/magic_burst.png"
+    },
+    {
+        "id": 2121044373,
+        "name": "upgrade_magic_shock",
+        "localization": "强力连伤",
+        "description": "如果技能造成单次伤害达到或超过 125，则会造成额外的元灵伤害。目标在受到该物品伤害后，就对其具有 5s 的免疫时间。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/magic_shock.png"
+    },
+    {
+        "id": 1052584266,
+        "name": "upgrade_arcane_medallion",
+        "localization": "秘法勋章",
+        "description": "每当你在一次攻击中对敌方英雄造成至少 200 元灵伤害时，你将获得临时元灵力量。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/arcane_medallion.png"
+    },
+    {
+        "id": 2081037738,
+        "name": "upgrade_magic_vulnerability",
+        "localization": "迷之弱点",
+        "description": "当目标受到元灵伤害时，其元灵抗性会被降低。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/tech_vulnerability.png"
+    },
+    {
+        "id": 2603935618,
+        "name": "upgrade_healbane",
+        "localization": "不治魔咒",
+        "description": "你的元灵伤害会造成治疗降低。如果敌方英雄在此效果下死亡，你将获得大量治疗。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_tech/healbane.png"
+    },
+    {
+        "id": 1102081447,
+        "name": "upgrade_magic_slow",
+        "localization": "迷之牵绊",
+        "description": "当目标受到元灵伤害时，其移动速度和射速会被降低。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/slowing_tech.png"
+    },
+    {
+        "id": 3005970438,
+        "name": "upgrade_escalating_exposure",
+        "localization": "愈战愈强",
+        "description": "造成元灵伤害时会施加可叠加的元灵增强效果，增加你对目标的元灵伤害。",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/escalating_exposure.png"
+    },
+    {
+        "id": 787198704,
+        "name": "upgrade_rapid_recharge",
+        "localization": "火速充能",
+        "description": "未找到相关描述",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/rapid_recharge.png"
+    },
+    {
+        "id": 380806748,
+        "name": "upgrade_magic_tempo",
+        "localization": "加速冷却",
+        "description": "减少你技能和物品的冷却时间。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_utility/advanced_recharge.png"
+    },
+    {
+        "id": 3261353684,
+        "name": "upgrade_cooldown_reduction",
+        "localization": "超速冷却",
+        "description": "减少你技能和物品的冷却时间。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/spiritual_flow.png"
+    },
+    {
+        "id": 3789823638,
+        "name": "upgrade_duration_extender",
+        "localization": "未找到道具",
+        "description": "将你的技能和物品的持续时间增加 ???%。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/tech_duration_extender.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_slowing_tech",
+        "localization": "Slowing Spirit",
+        "description": "造成元灵伤害会对目标施加移动减速效果。",
+        "tier": 1,
+        "type": "tech",
+        "image": "items/mods_tech/slowing_tech.png"
+    },
+    {
+        "id": 1813726886,
+        "name": "upgrade_containment",
+        "localization": "减速法术",
+        "description": "造成元灵伤害并降低目标的移动速度和冲刺速度。对基于移动的物品和技能施加眩晕效果。不会影响目标的耐力使用。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/immobilize.png"
+    },
+    {
+        "id": 2922054143,
+        "name": "upgrade_withering_whip",
+        "localization": "落花流水",
+        "description": "瞄准一名敌人，施加射速减慢效果，并降低其子弹抗性。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/disarm.png"
+    },
+    {
+        "id": 1804594021,
+        "name": "upgrade_rescue_beam",
+        "localization": "营救光束",
+        "description": "治疗一个目标友方英雄和你自己，治疗量为最大生命值的某一百分比。在治疗过程中，你可以将目标拉向自己。可以自我施放。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_tech/medic_beam.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_personal_rejuvenator",
+        "localization": "Rebirth",
+        "description": "让在英雄在其死亡的地方重生。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/rebirth.png"
+    },
+    {
+        "id": 4003032160,
+        "name": "upgrade_rebirth",
+        "localization": "原地复活",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_tech/rebirth.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_long_range_slowing_tech",
+        "localization": "灵力不散",
+        "description": "造成元灵伤害时对敌人施加移动减速。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/tech_range.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_full_spectrum",
+        "localization": "全面打击",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/tech_range.png"
+    },
+    {
+        "id": 4249800570,
+        "name": "upgrade_tech_cleave",
+        "localization": "Quantum Chimaera",
+        "description": "你的科技攻击会对附近的额外敌人造成总伤害的 75%。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/quantum_chimaera.png"
+    },
+    {
+        "id": 1288322878,
+        "name": "upgrade_bonus_ability_charge_3",
+        "localization": "超级充能",
+        "description": "将你技能的最大充能数增加 3 次。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/extra_charge.png"
+    },
+    {
+        "id": 4245766497,
+        "name": "upgrade_charge_mastery",
+        "localization": "充能大师",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/extra_charge.png"
+    },
+    {
+        "id": 3144988365,
+        "name": "upgrade_rupture",
+        "localization": "衰变",
+        "description": "减少目标敌人所受到的治疗并对其当前生命值造成持续伤害。该物品造成的伤害不会致命。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/rupture.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_discord",
+        "localization": "Discord",
+        "description": "在敌方或友方目标周围施加一个光环，该光环对半径内的敌人造成伤害，并将他们的治疗效果抑制 -80%。如果施加在友方身上，它还会治疗友方。",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/rupture.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_aoe_tech_shield",
+        "localization": "Spirit Barrier Pulse",
+        "description": "暂时为你和所有附近的友方单位提供元灵屏障。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/tech_shield_pulse.png"
+    },
+    {
+        "id": 1254091416,
+        "name": "upgrade_target_stun",
+        "localization": "天锤压顶",
+        "description": "目标在 2s 延迟后被击倒并被眩晕，从而打断敌人并暂时阻止其采取任何行动。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/knockdown.png"
+    },
+    {
+        "id": 1371725689,
+        "name": "upgrade_phantom_strike",
+        "localization": "幻影突袭",
+        "description": "传送至一个敌方目标前，施加缴械和减速效果，并造成伤害。",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_armor/phantom_strike.png"
+    },
+    {
+        "id": 3270001687,
+        "name": "upgrade_warp_stone",
+        "localization": "传送石",
+        "description": "向前进行直接传送，获得子弹抗性。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/warp_stone.png"
+    },
+    {
+        "id": 1152158042,
+        "name": "upgrade_aoe_root",
+        "localization": "Vacuum Web",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/area_immobilize.png"
+    },
+    {
+        "id": 677738769,
+        "name": "upgrade_ability_refresher",
+        "localization": "刷新大法",
+        "description": "重置所有技能的冷却时间并恢复所有充能。",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/refresher_module.png"
+    },
+    {
+        "id": 630839635,
+        "name": "upgrade_ability_power_shard",
+        "localization": "神威再现",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/echo_shard.png"
+    },
+    {
+        "id": 395944548,
+        "name": "upgrade_tech_damage_pulse",
+        "localization": "虐敌频频",
+        "description": "周期性地对周围最近的两个敌人造成元灵伤害。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/torment_aura.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_cheat_death",
+        "localization": "Cheat Death",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_tech/torment_aura.png"
+    },
+    {
+        "id": 3276909180,
+        "name": "upgrade_reload_speed",
+        "localization": "Fast Reload",
+        "description": "增加装填速度。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_utility/fast_reload.png"
+    },
+    {
+        "id": 2560018361,
+        "name": "upgrade_cloaking_device",
+        "localization": "Cloaking Device",
+        "description": "隐身。附近的敌人会暂时暴露你的存在。攻击或受到伤害时会在 10s 内解除隐身效果。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_utility/cloaking_device.png"
+    },
+    {
+        "id": 1798666702,
+        "name": "upgrade_cloaking_device_active",
+        "localization": "来去无踪",
+        "description": "进入隐身状态。每当你在隐身状态下受到伤害时，会短暂现形。",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_utility/cloaking_device.png"
+    },
+    {
+        "id": 2382983502,
+        "name": "upgrade_zipine_mastery",
+        "localization": "Zip Line Mastery",
+        "description": "滑索速度增加，并允许你使用中立滑索，并在滑索上滑行时进行占领。当你从滑索上跳下时，会获得移动速度加成，持续时间会随着你在滑索上的停留时间而增加。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_utility/zipline_mastery.png"
+    },
+    {
+        "id": 3662153307,
+        "name": "upgrade_fire_rate_aura",
+        "localization": "Fire Rate Aura",
+        "description": "提升你和附近队友的射速。非英雄的射速提升与英雄的不同。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_utility/fire_rate_aura.png"
+    },
+    {
+        "id": 607292868,
+        "name": "upgrade_weapon_overdrive_clip",
+        "localization": "超载弹匣",
+        "description": "基于最大生命值对自己造成非致命伤害，并且无论剩余多少子弹，都添上数量等同于最大子弹数的子弹。这个弹匣中的子弹具有额外的勇气。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_armor/overdrive.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_rocket_boots",
+        "localization": "未找到道具",
+        "description": "将自己发射到高空中。若受到敌方英雄伤害，则在 4s 内无法使用。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_utility/springy_boots.png"
+    },
+    {
+        "id": 600033864,
+        "name": "upgrade_rocket_booster",
+        "localization": "升空飞跃",
+        "description": "将自己发射到高空中。在空中时，可以再次使用该主动技能以更快下降。若受到敌方英雄攻击，则在 5s 内无法使用。",
+        "tier": 3,
+        "type": "armor",
+        "image": "abilities/lash/lash_death_slam.png"
+    },
+    {
+        "id": 271801138,
+        "name": "upgrade_aerial_assault",
+        "localization": "Aerial Assault",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_utility/springy_boots.png"
+    },
+    {
+        "id": 2956256701,
+        "name": "upgrade_health_nova",
+        "localization": "妙手回春",
+        "description": "治疗自己和附近的友军。每个友军额外恢复 20% 生命值。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_utility/health_nova.png"
+    },
+    {
+        "id": 2059712766,
+        "name": "upgrade_restorative_locket",
+        "localization": "疗愈护符",
+        "description": "未找到相关描述",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/restorative_locket.png"
+    },
+    {
+        "id": 1710079648,
+        "name": "upgrade_health_stimpak",
+        "localization": "治疗仪式",
+        "description": "赋予目标生命值恢复和冲刺速度。如果你受到敌方玩家或目标物的伤害，效果会被解除。可以自我施放。",
+        "tier": 1,
+        "type": "armor",
+        "image": "items/mods_armor/stimpak.png"
+    },
+    {
+        "id": 1797283378,
+        "name": "upgrade_infuser",
+        "localization": "灵力灌注",
+        "description": "获得元灵力量和元灵吸血。",
+        "tier": 1,
+        "type": "tech",
+        "image": "items/mods_tech/infuser.png"
+    },
+    {
+        "id": 3147316197,
+        "name": "upgrade_savior",
+        "localization": "神奇屏障",
+        "description": "为目标提供子弹护盾、元灵护盾和移动速度。可以自我施放。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/savior.png"
+    },
+    {
+        "id": 937242723,
+        "name": "upgrade_aoe_smoke_bomb",
+        "localization": "Smoke",
+        "description": "让你和队友 隐身并获得移动速度加成。攻击或受到伤害将解除隐身。 施放延迟：1.5s。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_utility/smoke.png"
+    },
+    {
+        "id": 1932939246,
+        "name": "upgrade_thermal_detonator",
+        "localization": "炼金师之火",
+        "description": "投掷一个触碰后会爆炸的瓶子，创造一个区域，该区域内每秒元灵伤害会增加，并使敌人受到你队伍额外的武器伤害。对非英雄目标造成的每秒伤害少 40%。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/thermal_detonator.png"
+    },
+    {
+        "id": 3403085434,
+        "name": "upgrade_fleetfoot_boots",
+        "localization": "轻盈飞步",
+        "description": "未找到相关描述",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/fleetfoot_boots.png"
+    },
+    {
+        "id": 3977876567,
+        "name": "upgrade_kinetic_sash",
+        "localization": "上蹿下跳",
+        "description": "你的下一个冲刺跳不会消耗额外的耐力，你将获得射速和额外的弹药，直到你下次重新装填。效果持续 8s。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/kinetic_sash.png"
+    },
+    {
+        "id": 389243496,
+        "name": "upgrade_weapon_eater",
+        "localization": "Weapon Eater",
+        "description": "减少 -5 的勇气。击杀敌方英雄可获得 3.5 勇气（最多可累积 30 次），但在死亡时失去6已获得的勇气。如果在击杀敌人后的 1s 内造成了伤害，则获得加成。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/advanced_weaponry.png"
+    },
+    {
+        "id": 315518818,
+        "name": "upgrade_weapon_instant_reload",
+        "localization": "Reloader + Huge Clip",
+        "description": "在装填弹药时按下 [Reload] 键以立即完成装填。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_utility/fast_reload.png"
+    },
+    {
+        "id": 1947620709,
+        "name": "upgrade_tech_defender",
+        "localization": "Tech Defender",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_armor/tech_defender.png"
+    },
+    {
+        "id": 3357231760,
+        "name": "upgrade_unstoppable",
+        "localization": "势不可挡",
+        "description": "抑制负面状态效果，并对眩晕、沉默、睡眠、缠绕和缴械效果免疫。",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_armor/unstoppable.png"
+    },
+    {
+        "id": 2407781327,
+        "name": "upgrade_colossus",
+        "localization": "巨人",
+        "description": "获得子弹和元灵抗性，并使附近敌人的移动速度和冲刺速度减缓。英雄身体增大 20%。",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_armor/colossus.png"
+    },
+    {
+        "id": 1976391348,
+        "name": "upgrade_cold_front",
+        "localization": "冰天雪地",
+        "description": "释放一个不断扩大的冰暴，对其击中的目标造成元灵伤害并使其减速。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_utility/ice_blast.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_aoe_silence",
+        "localization": "脉冲手雷",
+        "description": "投掷一枚手雷，使敌人沉默并降低他们的元灵抗性。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_utility/emp_wave.png"
+    },
+    {
+        "id": 2533252781,
+        "name": "upgrade_self_bubble",
+        "localization": "天灵护体",
+        "description": "你进入虚空状态，在短时间内无法成为目标并变得无敌，在此期间你无法移动或执行任何操作。之后，你会立即重新装填并获得额外的元灵力量。按 [???] 可提前取消。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/shifting_shroud.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_stasis_bomb",
+        "localization": "Stasis Bomb",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_utility/stasis.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_quarantine",
+        "localization": "Quarantine",
+        "description": "将一名敌方英雄隔离，使其变得无敌，但同时沉默他们并对其缴械。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_utility/stasis.png"
+    },
+    {
+        "id": 2617435668,
+        "name": "upgrade_glitch",
+        "localization": "诅咒",
+        "description": "诅咒某个敌人——打断、沉默、缴械，并阻止其使用物品。",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/glitch.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_imbued_ability",
+        "localization": "已加强技能",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/tech_damage.png"
+    },
+    {
+        "id": 2951612397,
+        "name": "upgrade_arcane_extension",
+        "localization": "余威回荡",
+        "description": "增加你技能和物品的持续时间 。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/duration_extender.png"
+    },
+    {
+        "id": 2717651715,
+        "name": "upgrade_imbued_duration_extender",
+        "localization": "余威久久",
+        "description": "增加你技能和物品的持续时间 。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/arcane_persistance.png"
+    },
+    {
+        "id": 365620721,
+        "name": "upgrade_glass_cannon",
+        "localization": "玻璃大炮",
+        "description": "每击杀一个英雄都会赋予永久武器伤害（最多 5 次）。若被杀死，则会失去一个叠加层。",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/glass_cannon.png"
+    },
+    {
+        "id": 1055679805,
+        "name": "upgrade_surging_power",
+        "localization": "狂暴吸血鬼",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/vampiric_burst.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_mod_disruptor",
+        "localization": "Soul Disruptor",
+        "description": "投掷一枚在接触时爆炸的手雷，对每个敌人施加沉默效果以及逐渐增加的伤害。",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_weapon/thermal_detonator.png"
+    },
+    {
+        "id": 2039312305,
+        "name": "upgrade_frenzy",
+        "localization": "未找到道具",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "armor",
+        "image": "items/mods_armor/health_stealing_bullets.png"
+    },
+    {
+        "id": 253917113,
+        "name": "upgrade_burst_fire_actuator",
+        "localization": "连发驱动器",
+        "description": "你的武器会按初始子弹总数的一定比例额外连发一波子弹。如果这一轮连发中的所有子弹都击中敌方英雄，你将获得临时基础子弹伤害，直到弹匣中的子弹全部射完。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_utility/fast_reload.png"
+    },
+    {
+        "id": 1252627263,
+        "name": "upgrade_boxing_glove",
+        "localization": "吸命暴击",
+        "description": "你的近战攻击会施加移动减速效果并对你进行治疗，治疗量为所造成的近战伤害的 55% 加 110 。如果是对非英雄造成伤害，则治疗量为原本的 40%。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_armor/boxing_glove.png"
+    },
+    {
+        "id": 465043967,
+        "name": "upgrade_acolytes_glove",
+        "localization": "大伤元气",
+        "description": "当你对一个英雄进行轻度或重度近战攻击时，攻击会造成额外元灵伤害并减少目标的元灵抗性。",
+        "tier": 1,
+        "type": "tech",
+        "image": "items/mods_tech/acolytes_glove.png"
+    },
+    {
+        "id": 26002154,
+        "name": "upgrade_melee_charge",
+        "localization": "近战蓄力",
+        "description": "增加你的重度近战攻击的充能距离。当你对敌人执行重度近战攻击时，你的武器将立即重新装填。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/melee_charge.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_charmed_wraps",
+        "localization": "Charmed Wraps",
+        "description": "当你对一个英雄进行重度近战攻击（或在 4.0s 内进行 两次轻度近战攻击）时，你的技能将会得到冷却时间缩减。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/charmed_wraps.png"
+    },
+    {
+        "id": 0,
+        "name": "upgrade_belt_fed_magazine",
+        "localization": "弹链",
+        "description": "你的武器将拥有大大扩容的弹匣，但达到全速运转状态需要时间，初始射速较慢，但会随着武器运转速度的加快而逐渐加快。",
+        "tier": 4,
+        "type": "weapon",
+        "image": "items/mods_weapon/auto_reloader.png"
+    },
+    {
+        "id": 2820116164,
+        "name": "upgrade_diviners_kevlar",
+        "localization": "神力护体",
+        "description": "施放终极技能后，获得临时的子弹护盾、元灵护盾和元灵力量。",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_armor/bullet_shield.png"
+    },
+    {
+        "id": 2672389724,
+        "name": "upgrade_stabilizing_tripod",
+        "localization": "Stabilizing Tripod",
+        "description": "对自己缴械，将你的武器投掷到目标位置，武器在那里会变成一个战场哨塔，使用你的武器攻击敌人且弹匣无限。你可以通过近战攻击哨塔来提前结束这一效果。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_utility/base_utility.png"
+    },
+    {
+        "id": 3612042342,
+        "name": "upgrade_mega_spirit",
+        "localization": "灵力无边",
+        "description": "未找到相关描述",
+        "tier": 4,
+        "type": "tech",
+        "image": "items/mods_tech/boundless_spirit.png"
+    },
+    {
+        "id": 2739107182,
+        "name": "upgrade_burst_fire",
+        "localization": "连发驱动器",
+        "description": "当你的子弹击中敌方英雄时，短暂地获得射速和移动速度的提升。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/fire_rate_plus_plus.png"
+    },
+    {
+        "id": 558396679,
+        "name": "upgrade_resilience",
+        "localization": "元灵常驻",
+        "description": "未找到相关描述",
+        "tier": 1,
+        "type": "armor",
+        "image": "items/mods_armor/resilience.png"
+    },
+    {
+        "id": 2829638276,
+        "name": "upgrade_endurance",
+        "localization": "加速回血",
+        "description": "未找到相关描述",
+        "tier": 1,
+        "type": "armor",
+        "image": "items/mods_armor/endurance.png"
+    },
+    {
+        "id": 2985482185,
+        "name": "upgrade_magic_clarity",
+        "localization": "Clarity",
+        "description": "使用技能或物品时，获得一个持续 8s 的移动速度加成。你下一次施放技能将移除移动速度加成，并为该技能应用元灵加成。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_tech/clarity.png"
+    },
+    {
+        "id": 1292979587,
+        "name": "upgrade_magic_storm",
+        "localization": "澎湃灵力",
+        "description": "加强一个技能，使其获得永久元灵力量。当该技能被使用时，获得额外的移动速度。",
+        "tier": 3,
+        "type": "tech",
+        "image": "items/mods_tech/magic_storm.png"
+    },
+    {
+        "id": 1925087134,
+        "name": "upgrade_suppressor",
+        "localization": "压迫术",
+        "description": "当你对敌人造成元灵伤害时，还会施加射速减缓。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_armor/weapon_jammer.png"
+    },
+    {
+        "id": 84321454,
+        "name": "upgrade_quick_silver",
+        "localization": "魔力补弹术",
+        "description": "加强意向技能，在该项技能首次命中敌人时，附加额外的元灵伤害。使出该技能后，你的武器将重新装填，并在使用该弹匣期间获得射速加成。",
+        "tier": 2,
+        "type": "tech",
+        "image": "items/mods_weapon/fire_rate_plus.png"
+    },
+    {
+        "id": 2717142638,
+        "name": "upgrade_arcane_eater",
+        "localization": "隐秘窃食者",
+        "description": "你的子弹会从敌方英雄那里偷取元灵力量。爆头时额外偷取 1 魂魄力量。此效果可以叠加。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/arcane_eater.png"
+    },
+    {
+        "id": 2574520834,
+        "name": "upgrade_predator_precision",
+        "localization": "弱肉强食",
+        "description": "对低生命值的敌方英雄造成额外的武器伤害。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/close_range.png"
+    },
+    {
+        "id": 2407033488,
+        "name": "upgrade_intensifying_clip",
+        "localization": "火力渐升",
+        "description": "在你持续射击时，增加武器伤害。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/auto_reloader.png"
+    },
+    {
+        "id": 2463960640,
+        "name": "upgrade_reinforcing_casings",
+        "localization": "层层防御",
+        "description": "当你的子弹击中敌方英雄时，赋予子弹抗性。每次射击只能赋予一次抗性叠加。",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_armor/bullet_armor_plus.png"
+    },
+    {
+        "id": 4104549924,
+        "name": "upgrade_blitz_bullets",
+        "localization": "迅捷突击手",
+        "description": "未找到相关描述",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_weapon/fire_rate_plus.png"
+    },
+    {
+        "id": 865958998,
+        "name": "upgrade_veil_walker",
+        "localization": "玄幕穿行者",
+        "description": "穿越宇宙玄幕会使你获得隐身状态、提升移动速度、恢复所有子弹和元灵护盾，并为你的下一个弹匣提供额外的射速。",
+        "tier": 3,
+        "type": "armor",
+        "image": "items/mods_utility/veil_walker.png"
+    },
+    {
+        "id": 1644605047,
+        "name": "upgrade_vex_barrier",
+        "localization": "应急屏障",
+        "description": "在你处于移动锁定、眩晕、禁锢、定身、睡眠效果之下时，自动部署临时的子弹护盾和元灵护盾。",
+        "tier": 2,
+        "type": "armor",
+        "image": "items/mods_armor/last_stand.png"
+    },
+    {
+        "id": 3862866912,
+        "name": "upgrade_medic_bullets",
+        "localization": "治疗性射击",
+        "description": "你的下一颗子弹将根据你击中的目标治疗你 。",
+        "tier": 1,
+        "type": "weapon",
+        "image": "items/mods_weapon/medic_bullets.png"
+    },
+    {
+        "id": 2356412290,
+        "name": "upgrade_titan_round",
+        "localization": "巨型弹匣",
+        "description": "未找到相关描述",
+        "tier": 3,
+        "type": "weapon",
+        "image": "items/mods_weapon/titanic_magazine.png"
+    },
+    {
+        "id": 381961617,
+        "name": "upgrade_active_reload",
+        "localization": "补弹快手",
+        "description": "装填弹药时，在高亮的时间段内按下 [???] 将瞬间完成装填并赋予你射速和子弹吸血。",
+        "tier": 2,
+        "type": "weapon",
+        "image": "items/mods_utility/deployable_bullet_shield.png"
+    },
+    {
+        "id": 2800629741,
+        "name": "upgrade_magic_carpet",
+        "localization": "魔毯",
+        "description": "召唤魔毯，让你飞走。在飞行时获取子弹和元灵抗性。在召唤魔毯期间无法使用技能。在飞行过程中采取任何操作都会让飞毯消失。",
+        "tier": 4,
+        "type": "tech",
+        "image": "abilities/kelvin/ice_path.png"
+    }
+]

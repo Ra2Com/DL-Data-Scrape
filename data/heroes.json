@@ -1,0 +1,1266 @@
+[
+    {
+        "id": 0,
+        "name": "hero_base",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "",
+        "abilities": []
+    },
+    {
+        "id": 1,
+        "name": "hero_inferno",
+        "localization": "炽焱",
+        "role": "放火烧敌，坐看其烈焰缠身",
+        "playstyle": "炽焱有许多慢慢伤害对手的办法，他会先放火烧敌，然后猛然降临给上致命一击。由于他行动起来总是火速前进，因此敌人无法逃脱他的熊熊烈焰。",
+        "lore": "曾经，炽焱和大多数少年一样，狂傲、叛逆而又冲动。但和大多数少年不一样的是，他是来自异域空间的生物，他有着能驾驭火焰的超自然力量。很显然：他的青葱岁月是在一次次纵火、谋杀和毁尸灭迹中度过的。不过那都是往事了。如今炽焱已长大成人，他的性情也温和了不少。他开开心心地在酒吧工作，听着现场音乐，跟有趣的人聊天。话虽这么说，只要酒吧里有人寻衅滋事、拳脚相加，他可不怕施展曾经练就的技能。",
+        "image": "heroes/inferno.png",
+        "abilities": [
+            {
+                "id": 491391007,
+                "name": "ability_incendiary_projectile",
+                "image": "abilities/inferno_molotov.png",
+                "localization": "催化剂"
+            },
+            {
+                "id": 3516947824,
+                "name": "ability_flame_dash",
+                "image": "abilities/inferno_dash.png",
+                "localization": "烈焰冲刺"
+            },
+            {
+                "id": 1593133799,
+                "name": "ability_afterburn",
+                "image": "abilities/inferno_deflect.png",
+                "localization": "残焰"
+            },
+            {
+                "id": 1142270357,
+                "name": "ability_fire_bomb",
+                "image": "abilities/inferno_bomb.png",
+                "localization": "震荡燃烧"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "hero_gigawatt",
+        "localization": "老七",
+        "role": "成群地电死敌军",
+        "playstyle": "老七最善于在小规模对峙中伺机而动。时机对了他便如风暴一般卷入战斗，用倾泻如注的闪电击倒敌人。",
+        "lore": "当神秘能量在地球上觉醒时，整个世界都变了……任何事情都有可能。但仅仅因为任何事情都有可能，并不代表任何事情都应该成为可能。因此政府制定了规则，也就是法律。是这些法律让美国公民们能够安全地享受超自然世界的种种好处。但受制于规则和法律的都是凡夫俗子，是平庸之辈，他们可不能跟老七相提并论。\\n\\n坊间流传着各种关于老七的谣言，试图去揣测他当年究竟干了什么，以至于被送到了永寂黑渊——专门关押世间最最危险的玄冥术士的地牢。但他受刑那天晚上所发生的事，是毫无疑问的。\\n\\n当晚有七国最强法师联合派出的护卫坐镇。创造这些护卫不仅是为了防止行刑时受到神秘力量的干扰，也是为了齐力毁灭老七的魂魄，以防日后再有人为继承他的衣钵而召唤之、复苏之或假以他法利用之。但一切都是徒劳的。\\n\\n围观者们胆颤心惊地目睹美军最强心术师的头颅像葡萄一样爆裂；他们尖叫着看到苏格兰场调查玄冥之术的头号警探——据称也是让老七落网的那个人——化为灰烬。老七的身体在束带之下猛烈地扭动，他的皮肤在诡异的电流下燃烧……然而他就是不死。他狂笑起来。\\n\\n他在笑声中挣脱了束缚。\\n\\n他在笑声中瞧见他的对手畏畏缩缩。\\n\\n他在笑声中把折磨他的人杀了个精光。\\n\\n他在笑声中品尝着多年没有呼吸到的新鲜空气。\\n\\n他在笑声中想象着等他到了纽约都要干些什么。",
+        "image": "heroes/gigawatt.png",
+        "abilities": [
+            {
+                "id": 1065103387,
+                "name": "citadel_ability_lightning_ball",
+                "image": "abilities/giga_ball.png",
+                "localization": "球状闪电"
+            },
+            {
+                "id": 1074714947,
+                "name": "citadel_ability_static_charge",
+                "image": "abilities/giga_static.png",
+                "localization": "对目标敌方英雄施加电能。短暂时间后，静态电能会<span class=\\"
+            },
+            {
+                "id": 539192269,
+                "name": "ability_power_surge",
+                "image": "abilities/giga_chain.png",
+                "localization": "澎湃电力"
+            },
+            {
+                "id": 2061574352,
+                "name": "citadel_ability_storm_cloud",
+                "image": "abilities/giga_storm.png",
+                "localization": "雷霆风暴"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "name": "hero_hornet",
+        "localization": "复仇女巫",
+        "role": "狙击毫无防备的敌人",
+        "playstyle": "复仇女巫行动自如，能够从容不迫地对付敌人。她会一点点地消灭她的猎物，让其慢慢流血而死。只要有复仇女巫在，受伤的敌人不管离她多远都应该担心被她干掉。",
+        "lore": "复仇女巫曾是塞勒姆审巫案中约翰·霍桑的受害人。在第一场异度风暴（也就是让大众领略到了超自然力量的那次事件）降临时，她的魂魄被带回了尘世。\\n\\n她孤“魂”奋战，对抗着“人性联盟”——一个由霍桑的后代建立的女巫裁判所。复仇女巫力图保护超自然世界，使其免受霍桑之流的侵扰。为了达到目的，就算杀的人堆积如山她也毫不畏惧。",
+        "image": "heroes/hornet.png",
+        "abilities": [
+            {
+                "id": 537527508,
+                "name": "citadel_ability_hornet_chain",
+                "image": "abilities/pestilence/pestilence_chain.png",
+                "localization": "钉桩"
+            },
+            {
+                "id": 1796564033,
+                "name": "citadel_ability_hornet_leap",
+                "image": "abilities/wasp_flight.png",
+                "localization": "飞行"
+            },
+            {
+                "id": 2048438176,
+                "name": "citadel_ability_hornet_sting",
+                "image": "abilities/hornet/hornet_crow.png",
+                "localization": "渡鸦使魔"
+            },
+            {
+                "id": 775377419,
+                "name": "citadel_ability_hornet_snipe",
+                "image": "abilities/hornet/hornet_assassinate.png",
+                "localization": "暗杀"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "name": "hero_ghost",
+        "localization": "盖斯特夫人",
+        "role": "牺牲自己的生命值，然后从敌人那里吸回来",
+        "playstyle": "牺牲自己的活力以给敌人致命打击是盖斯特夫人的力量源泉。在奄奄一息之时，她可以吸走敌人的生命，让自己回春。",
+        "lore": "吉安娜·盖斯特夫人曾一度是个炙手可热的万人迷。但随着时光飞逝，红颜渐褪，她跻身上流社会的逍遥日子也越来越离她远去。到最后，她沦为养老院里的孱弱阿婆，整天讲述着她曾经的辉煌。也就是在这时，守誓者出现了。守誓者是来自异域空间的强大魂灵，他给盖斯特夫人提供了寻回昔日浮华的办法。他可以帮她重获青春，而她要做的就只是从世人身上吸取精华以使青春常驻。\\n\\n盖斯特内心充满了挣扎。显然杀人可是个险恶的勾当，而且毫无疑问这个守誓者不是个可以信赖的家伙。可话虽如此，一想到能够再现青春时光，她就无法抗拒。因此，她心生一计：先跟守誓者定下契约，然后将他捆住，看着他，限制守誓者对她的影响力和吸引力。她仍然会给守誓者喂食，但怎么来由不着他，而是她说了算。\\n\\n然而，从最开始的几年到后来的几十年，盖斯特的力量已经衰减，而守誓者的胃口却胜过以往任何时候…… ",
+        "image": "heroes/spectre.png",
+        "abilities": [
+            {
+                "id": 715325746,
+                "name": "ability_blood_bomb",
+                "image": "abilities/spectre/blood_bomb.png",
+                "localization": "精华炸弹"
+            },
+            {
+                "id": 218284420,
+                "name": "ability_life_drain",
+                "image": "abilities/spectre/life_drain.png",
+                "localization": "生命汲取"
+            },
+            {
+                "id": 3230530872,
+                "name": "ability_blood_shards",
+                "image": "abilities/haze/haze_sleep_dagger.png",
+                "localization": "恶念"
+            },
+            {
+                "id": 1307289689,
+                "name": "ability_health_swap",
+                "image": "abilities/spectre/blood_exchange.png",
+                "localization": "灵魂互换"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "name": "hero_atlas",
+        "localization": "亚伯拉姆斯",
+        "role": "冲向敌人，近场作战",
+        "playstyle": "亚伯拉姆斯身形壮硕、稳如泰山，适合打头阵。他常常闯进敌人中央，看着他们四散奔逃。要是敌人在他身上浪费子弹，他后头的队友们就可以无所顾忌地大举杀敌。",
+        "lore": "办事则雷利风行、处世则沉着冷静、喝酒则开怀痛饮，亚伯拉姆斯侦探多年来一直是纽约刑侦界的的大人物。从艺术品盗窃到人口失踪再到杀人献祭，亚伯拉姆斯可不是什么案子都接，他是什么案子都破。\\n\\n但他跟踪花心萝卜揭开隐秘情事的日子终于走到了尽头。一天他打开办公室大门，发现桌子上赫然放着宝书。\\n\\n一张字条上用黑玛瑙血写道“别让他们夺走宝书”，除此之外再无其他指示。亚伯拉姆斯还没搞清楚宝书是从哪来的，但有鉴于他的居所已遭闯入、他的办公室三次被人翻遍、他的车爆炸起火，将整件事查个水落石出关乎他的切身利益。",
+        "image": "heroes/bull.png",
+        "abilities": [
+            {
+                "id": 4072270083,
+                "name": "citadel_ability_bull_heal",
+                "image": "abilities/bull_drain.png",
+                "localization": "移花接命"
+            },
+            {
+                "id": 2824119765,
+                "name": "citadel_ability_bull_charge",
+                "image": "abilities/bull_charge.png",
+                "localization": "冲锋陷阵"
+            },
+            {
+                "id": 715762406,
+                "name": "citadel_ability_passive_beefy",
+                "image": "abilities/bull_beef.png",
+                "localization": "顽胄韧甲"
+            },
+            {
+                "id": 509856396,
+                "name": "citadel_ability_bull_leap",
+                "image": "abilities/bull_jump.png",
+                "localization": "撼天动地"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "name": "hero_wraith",
+        "localization": "灵魅",
+        "role": "将孤立无援的目标一举歼灭",
+        "playstyle": "灵魅精于一对一作战。她让一个个目标落单，眨眼间将其消灭，还没有人来得及报仇雪恨她就已经通过传送之术而逃之夭夭。",
+        "lore": "灵魅是纽约博彩界的巨擘。她的组织是个公开得不能再公开的秘密。不过，靠着一次次的贿赂、要挟、勒索，灵魅知道她是凌驾于法律之上的。",
+        "image": "heroes/wraith.png",
+        "abilities": [
+            {
+                "id": 1999680326,
+                "name": "citadel_ability_card_toss",
+                "image": "abilities/wraith_card_trick.png",
+                "localization": "卡牌戏法"
+            },
+            {
+                "id": 4147641675,
+                "name": "citadel_ability_projectmind",
+                "image": "abilities/wraith_teleport.png",
+                "localization": "心灵投射"
+            },
+            {
+                "id": 1842576017,
+                "name": "citadel_ability_wraith_rapidfire",
+                "image": "abilities/wraith_aura.png",
+                "localization": "全自动"
+            },
+            {
+                "id": 2981692841,
+                "name": "citadel_ability_psychic_lift",
+                "image": "abilities/wraith_lift.png",
+                "localization": "念力"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "name": "hero_forge",
+        "localization": "麦金尼斯",
+        "role": "用炮塔控制战斗局面",
+        "playstyle": "不管是设立歼击区域还是将敌军一分为二，精确地放置武器对于麦金尼斯而言至关重要。她能帮助队伍战斗下去，使他们一旦确立作战方位便固若金汤。",
+        "lore": "麦吉·麦金尼斯从小就很会造东西。4 岁时，她就能用积木搭出炫丽的建筑；10 岁时，她鼓捣出特制的灯光装置，还改造了电路，好为父母的结婚纪念日增添光彩；15 岁时，她设计出了一种机器，能从死者身上提炼出灵魂……这个机器要比她搭的积木房子稍微更引人注目一点。\\n\\n如今，身为菲尔法克斯实业军事研发部的总监，麦金尼斯把时间都花在机器车间里，而从不光顾实验室。她对理论没兴趣，在她眼里，科学是能用手触摸的魔法。",
+        "image": "heroes/engineer.png",
+        "abilities": [
+            {
+                "id": 3133377790,
+                "name": "citadel_ability_shieldedsentry",
+                "image": "abilities/engineer_turret.png",
+                "localization": "迷你炮塔"
+            },
+            {
+                "id": 2142734020,
+                "name": "citadel_ability_mobile_resupply",
+                "image": "abilities/engineer_resupply.png",
+                "localization": "灵丹妙药"
+            },
+            {
+                "id": 1725685134,
+                "name": "citadel_ability_fissure_wall",
+                "image": "abilities/engineer_fissure_2.png",
+                "localization": "幻影屏障"
+            },
+            {
+                "id": 3503044146,
+                "name": "citadel_ability_rocket_barrage",
+                "image": "abilities/engineer_rockets.png",
+                "localization": "重炮轰击"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "name": "hero_chrono",
+        "localization": "悖论",
+        "role": "扭曲时空",
+        "playstyle": "操控时间的本领让悖论在一对一的战斗中快人一步。她通过换位大法让敌人置于脉冲手雷的攻击、时间墙的阻隔，或是队友的包围之下，并凭此制霸沙场。",
+        "lore": "悖论，时间开了个小差造成的故障，也是臭名昭著的盗贼帮派的名字。这帮小偷会制定出精密复杂的作案手法，专门找最为有权有势的人物和机构下手，并以此为傲。他们将无数的文物、国家机密、名人验亲结果搞到手后，会做什么呢？将它们放到快闪博物馆里展示一番，以此向全世界宣告没有谁能躲得过他们的魔爪。\\n\\n帮会的每个成员都隐藏在谜团之中，他们戴上面具，用组织的名字称呼自己。他们无处不在，但又无处可寻。只要他们想盗取某样东西，就没有什么能拦得住他们。",
+        "image": "heroes/chrono.png",
+        "abilities": [
+            {
+                "id": 58655583,
+                "name": "citadel_ability_chrono_pulse_grenade",
+                "image": "abilities/chrono/chrono_time_bomb.png",
+                "localization": "脉冲手雷"
+            },
+            {
+                "id": 1366719170,
+                "name": "citadel_ability_chrono_time_wall",
+                "image": "abilities/chrono/chrono_time_wall.png",
+                "localization": "时间之墙"
+            },
+            {
+                "id": 1128670012,
+                "name": "citadel_ability_chrono_kinetic_carbine",
+                "image": "abilities/duo/duo_attack.png",
+                "localization": "动力卡宾枪"
+            },
+            {
+                "id": 2917891787,
+                "name": "citadel_ability_chrono_swap",
+                "image": "abilities/chrono/chrono_swap.png",
+                "localization": "悖论置换"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "name": "hero_dynamo",
+        "localization": "奇能博士",
+        "role": "令敌军寸步难行",
+        "playstyle": "奇能博士一边保持着自己和队友的生命力，一边等待着他出场的时刻。想要重塑一场团战的局面，最好的办法就是在队友的完美配合下使出奇点大招。",
+        "lore": "身为科学家，奇能博士总保持着一颗好奇心。因此，当一道时空裂痕在中央公园豁开时，他是最先赶到现场调查的。虽然他预料到目睹如此壮观的景象将会改变他的生命，但他以为这种改变只是象征性的，而不是让他的身体原子化并缩减成一颗小小的、即将衰亡的星星。\\n\\n尽管他的身体已经湮灭，他的精神和求知欲却继续活了下来。作为哥伦比亚学院的终身教授，奇能博士希望一边研究他自身的状况，一边扛下授课任务，毕竟，他还要启发一颗颗年轻的头脑。",
+        "image": "heroes/sumo.png",
+        "abilities": [
+            {
+                "id": 3760705623,
+                "name": "citadel_ability_stomp",
+                "image": "abilities/sumo/sumo_stomp.png",
+                "localization": "动能脉冲"
+            },
+            {
+                "id": 2031714424,
+                "name": "citadel_ability_void_sphere",
+                "image": "abilities/sumo/sumo_quantum.png",
+                "localization": "量子闪现"
+            },
+            {
+                "id": 492030745,
+                "name": "citadel_ability_nikuman",
+                "image": "abilities/sumo/sumo_pork_bun.png",
+                "localization": "回春光环"
+            },
+            {
+                "id": 249410288,
+                "name": "citadel_ability_self_vacuum",
+                "image": "abilities/sumo/sumo_vacuum.png",
+                "localization": "奇点"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "name": "hero_kelvin",
+        "localization": "凯尔文",
+        "role": "让敌人如履薄冰，举步维艰",
+        "playstyle": "是轻松取胜还是仓皇落败，全看能不能及时治疗队友、适时分裂对手。凯尔文四处游走，拖慢敌人，让自己的队伍能够掌控局面、占据优势，从而做到以上这一点。",
+        "lore": "凯尔文是声明显赫的探险科学家，探索并了解未知世界是他一生的追求。因此当有传言称北极地区隐藏着第八座星际大门时，凯尔文自然以最快的速度组建了远征队。凯尔文召集了他这一代最优秀的科学家，团队在众人欢呼雀跃中启航了。\\n\\n然而他们从此再没有回来。\\n\\n一年半以后，一艘拖网渔船发现了凯尔文被冰封的遗体，他紧握着一块带有发光铭文的石头。船员一点点凿开封住凯尔文的冰，希望能凑近看他的遗体，结果凯尔文张开了双眼，令他们大惊失色。他们检查了他的生命迹象，结果他没有脉搏。他们试图包扎他敞开的伤口，结果却没有鲜血。然而，凯尔文却反常地“活着”。\\n\\n他已经完全不记得在远征时发生了什么，因此他要寻找答案。",
+        "image": "heroes/kelvin.png",
+        "abilities": [
+            {
+                "id": 18921423,
+                "name": "ability_ice_grenade",
+                "image": "abilities/kelvin/freezing_grenade.png",
+                "localization": "冰霜手雷"
+            },
+            {
+                "id": 1963397252,
+                "name": "ability_icepath",
+                "image": "abilities/kelvin/ice_path.png",
+                "localization": "冰封路径"
+            },
+            {
+                "id": 2351041382,
+                "name": "ability_icebeam",
+                "image": "abilities/kelvin/ice_beam.png",
+                "localization": "冻结"
+            },
+            {
+                "id": 3826390464,
+                "name": "ability_ice_dome",
+                "image": "abilities/kelvin/frozen_shelter.png",
+                "localization": "冰冻庇护"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "name": "hero_haze",
+        "localization": "暗影",
+        "role": "神出鬼没，一顿狂射",
+        "playstyle": "当暗影专心对付一个目标时，她能在战斗中立于不败之地。她偏好于一边倒的交战，避免自己受伤，然后来到毫无防备的敌人面前，将其歼灭。",
+        "lore": "玄冥力量安全和调查委员会是个让中情局都显得透明的隐秘政府组织。抵御当地执法部门无力对抗的邪恶力量，保障国家安全，这全都依靠组成该委员会的男男女女和各种鬼神们。\\n\\n暗影是恶名昭彰的“睡魔作战队”的一员，她时常负责潜入观察对象的梦中，评估其威胁等级，必要的话还会让其陷入沉睡。",
+        "image": "heroes/haze.png",
+        "abilities": [
+            {
+                "id": 2948410412,
+                "name": "ability_sleep_dagger",
+                "image": "abilities/haze/haze_sleep_dagger.png",
+                "localization": "沉睡匕首"
+            },
+            {
+                "id": 2414191464,
+                "name": "ability_smoke_bomb",
+                "image": "abilities/haze/haze_smoke_bomb.png",
+                "localization": "烟雾弹"
+            },
+            {
+                "id": 1080948381,
+                "name": "ability_stacking_damage",
+                "image": "abilities/haze/haze_fixation.png",
+                "localization": "锁定"
+            },
+            {
+                "id": 731943444,
+                "name": "ability_bullet_flurry",
+                "image": "abilities/haze/haze_bullet_flurry.png",
+                "localization": "子弹之舞"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "name": "hero_astro",
+        "localization": "哈雷黛",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "有的人终其一生都梦想着能够搬去纽约。哈雷黛却不是这样的人。她满足地做着一名小镇警长，唯一一次动枪还是在县集市上表演射击。对于这样的职业生涯她乐在其中。接着谋杀案就发生了。\\n\\n作案手法可怖而残忍：受害者的胸腔被撕扯开，内脏好像被鸟琢过一样散乱一摊。哈雷黛追查到了凶手——一名四处游荡的民乐手，被媒体冠以“游吟杀手”的称号。但是当她与凶手对峙时，那人却砰然化作一团乌鸦飞走了。\\n\\n一晃 6 个月已过，虽然这座位于伊利诺伊州中部的小镇已不再被谋杀案所笼罩，但哈雷黛对案件的调查并没有停止。她相信游吟杀手正逃往纽约。等她抓到了凶手，她一定要亲手送那个王八蛋上西天。",
+        "image": "heroes/astro.png",
+        "abilities": [
+            {
+                "id": 0,
+                "name": "ability_explosive_barrel",
+                "image": "abilities/inferno_bomb_v2.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "ability_bounce_pad",
+                "image": "abilities/astro/bounce_pad.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "ability_hat_trick",
+                "image": "abilities/archer/archer_guided_arrow.png",
+                "localization": "帽子戏法"
+            },
+            {
+                "id": 0,
+                "name": "ability_gravity_lasso",
+                "image": "abilities/astro/gravity_lasso.png",
+                "localization": "元灵套索"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "name": "hero_bebop",
+        "localization": "比波普",
+        "role": "钩住敌人，连续放招，一举制胜",
+        "playstyle": "比波普能以多种方式串联起他的技能，从而打乱敌人位置、拯救队友、在短时间内连连伤敌。当战斗形势不要求精微的招数时，他巨大的激光炮仍能解决不少问题。",
+        "lore": "比波普是由一个孀居的垃圾场看门女用双手做出来的，但他可不仅仅是个只会干粗活的破烂拼接人，他是她求之不得的宝贝儿子。白天，他俩会一起在废铁场干活儿，晚上则是共同聆听爵士乐。这种日复一日的生活，虽然算不上多舒心，但起码安稳。可是现在，给了比波普生命的人一病不起。要是雪莉小姐知道了比波普为了给她买药在晚上都从事着哪些行当，她肯定不答应，但是没有真相就没有伤害。",
+        "image": "heroes/bebop.png",
+        "abilities": [
+            {
+                "id": 3089858203,
+                "name": "citadel_ability_uppercut",
+                "image": "abilities/bebop/bebop_uppercut.png",
+                "localization": "爆炸勾拳"
+            },
+            {
+                "id": 2521902222,
+                "name": "citadel_ability_sticky_bomb",
+                "image": "abilities/bebop/bebop_sticky_bomb.png",
+                "localization": "粘性炸弹"
+            },
+            {
+                "id": 1928108461,
+                "name": "citadel_ability_hook",
+                "image": "abilities/bebop/bebop_hook.png",
+                "localization": "钩子"
+            },
+            {
+                "id": 3832675871,
+                "name": "citadel_ability_bebop_laser_beam",
+                "image": "abilities/bebop/bebop_hyper_beam.png",
+                "localization": "超级光束"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "name": "hero_nano",
+        "localization": "卡厉可",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "卡厉可曾获《时代》杂志“全球最危险女性”的“美誉”。她是个充满神秘感的玄冥军火商，在一场冲突中只要哪一方出价高，她就把武器卖给哪一方。\\n\\n虽然她的批评者们（和好友们）不无道理地指出她泯灭良知，但她并非没有自己的原则……不管这些原则有多么冷酷无情、精打细算。",
+        "image": "heroes/nano.png",
+        "abilities": [
+            {
+                "id": 3377867107,
+                "name": "ability_perched_predator",
+                "image": "abilities/nano/nano_roller_bomb.png",
+                "localization": "栖于高处的捕食者"
+            },
+            {
+                "id": 0,
+                "name": "ability_nano_pounce",
+                "image": "abilities/nano/nano_warp.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "ability_nano_proximity_ritual",
+                "image": "abilities/nano/nano_proximity_ritual.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 686480410,
+                "name": "ability_nano_ult_shadow",
+                "image": "abilities/nano/nano_tunnel_vision.png",
+                "localization": "未找到文本"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "name": "hero_orion",
+        "localization": "灰爪",
+        "role": "使出高超的远距离射击术",
+        "playstyle": "灰爪是精明的捕猎者，他既拥有致命的精准度，又善于布置陷阱，还懂得找准巧妙的位置，因此他能拿下最难对付的敌手。",
+        "lore": "卫斯理·灰爪是“拜克斯特协会”的创始成员。他花了将近 40 年的时光捕杀那些猎食人类的怪物，最后决定让他人接手，并放下了他的弓箭。灰爪从前的职业生涯意味着他总是没有太多时间陪伴妻儿，如今儿子也已成家，他意识到这是与亲爱的家人共享天伦之乐的最后机会。\\n\\n退休的生活很适合卫斯理。他弥补了不曾守候在夫人身旁的时光。他宠溺着孙儿们。他每周三都为一大家子做晚饭。他过得很快乐。\\n\\n接着他便接到了那个该死的电话。\\n\\n政府部门称那是场意外……大火吞没了他儿子的房子，没人来得及逃出来。但卫斯理知道事情没这么简单。他的儿媳是伊克斯星人，她可以用意念扑灭火焰。即便他们的尸体被火烧过，凶手也肯定是先置他们于死地再纵火的。\\n\\n至此，灰爪再一次拿起了弓箭，等他追查到了是谁下此毒手，定叫他血债血偿。",
+        "image": "heroes/archer.png",
+        "abilities": [
+            {
+                "id": 548943648,
+                "name": "ability_charged_shot",
+                "image": "abilities/archer/archer_charged_shot.png",
+                "localization": "蓄力射击"
+            },
+            {
+                "id": 3452399392,
+                "name": "ability_power_jump",
+                "image": "abilities/archer/archer_power_jump.png",
+                "localization": "箭雨"
+            },
+            {
+                "id": 512733154,
+                "name": "ability_immobilize_trap",
+                "image": "abilities/archer/imobolize_trap.png",
+                "localization": "定身陷阱"
+            },
+            {
+                "id": 3242902780,
+                "name": "ability_guided_arrow",
+                "image": "abilities/archer/archer_guided_arrow.png",
+                "localization": "遥控夜枭"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "name": "hero_krill",
+        "localization": "隧底双煞",
+        "role": "在敌人脚下钻洞，来去自如",
+        "playstyle": "隧底双煞在地下钻来钻去，几乎总能占得先机；一旦他们朝着敌人袭来，后果可是不堪设想的。",
+        "lore": "隧底双煞是“地道暗鼠”的成员，这是个利用地下隧道网络推动纽约各区之间非法商贸活动的组织。虽然纽约地下世界的居民们大都尊重地道暗鼠的活计，但时不时就有帮派试图利用地道系统来解决私人恩怨……这时隧底双煞就会出手，提醒纽约客们在暗鼠的地盘撒野会有什么好下场。",
+        "image": "heroes/digger.png",
+        "abilities": [
+            {
+                "id": 1454278799,
+                "name": "ability_intimidate",
+                "image": "abilities/grappler/grappler_regen.png",
+                "localization": "蔑视"
+            },
+            {
+                "id": 2406758797,
+                "name": "ability_burrow",
+                "image": "abilities/grappler/grappler_spin.png",
+                "localization": "钻地"
+            },
+            {
+                "id": 1914797280,
+                "name": "ability_throw_sand",
+                "image": "abilities/grappler/grappler_throw_sand.png",
+                "localization": "沙暴"
+            },
+            {
+                "id": 1917840730,
+                "name": "ability_ult_combo",
+                "image": "abilities/grappler/grappler_combo.png",
+                "localization": "连招"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "name": "hero_shiv",
+        "localization": "西弗",
+        "role": "让对手血流不止，再一举击杀之",
+        "playstyle": "西弗对公平对抗没兴趣，这也是为什么他偏好先以速攻速撤的战术来削弱敌人，然后再埋头作战，大举杀敌。",
+        "lore": "西弗是怪物猎人的国际团体“拜克斯特协会”的忠实成员。他游走于北美大地，捕杀那些猎食人类的怪物。\\n\\n虽然他桀骜不驯的个性和违法犯罪的过去让协会里一些较为传统的成员心存疑虑，但没人能否认他手到擒来的本事。",
+        "image": "heroes/shiv.png",
+        "abilities": [
+            {
+                "id": 2460791803,
+                "name": "citadel_ability_shiv_dagger",
+                "image": "abilities/shiv/shiv_toss.png",
+                "localization": "尖锋利齿"
+            },
+            {
+                "id": 1458044103,
+                "name": "citadel_ability_shiv_dash",
+                "image": "abilities/shiv/shiv_flash.png",
+                "localization": "一网打尽"
+            },
+            {
+                "id": 1537272748,
+                "name": "citadel_ability_shiv_defer_damage",
+                "image": "abilities/rutger/rutger_cheat_death.png",
+                "localization": "细血长流"
+            },
+            {
+                "id": 1835738020,
+                "name": "citadel_ability_shiv_killing_blow",
+                "image": "abilities/shiv/shiv_killing_blow.png",
+                "localization": "乘胜追击"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "name": "hero_tengu",
+        "localization": "青藤",
+        "role": "和一名幸运的队友组成强力搭档",
+        "playstyle": "青藤具有能够拖慢和眩晕敌人的干扰性作战招数。和一名队友强强联手能使她发挥最大的杀敌效率，让她和搭档的武器得到强化，还能让两人得到同步治疗。",
+        "lore": "当屋顶上的那只石兽突然活过来时，它都不知道究竟是怎么回事……它只知道一个成年的人类和一个小小的人类正受到伤害。所以它飞速赶去营救，把攻击者打了个落荒而逃。那个小小的人类向它说了声谢谢，还问它叫什么名字，但它没有名字。于是小小人类就说：“那我就叫你‘青藤’吧！”石兽当时身上爬满了常青藤，它觉得这名字有点太直白了，但为了小小人类，还是决定接受它。\\n\\n那两个人类问青藤是否原因跟他们回家，好让他们答谢它，于是青藤跟着他们走了。那天晚上青藤了解到了很多事情。那一家人姓阿若悠。那个小小人类叫索菲亚。他们管一盘美味佳肴叫“磨丰果”。不过最重要的是，她了解到袭击那两个人类的家伙们叫“门多萨集团”，他们到处害人，像阿若悠一家那样的好人。\\n\\n自阿若悠一家收留青藤那天起已经过了 18 年。这些年里，她视捣毁门多萨集团、解放西语哈勒姆区为己任。不过，把将近 20 年的时间全都花在一桩事业上的问题在于，达成目标后就无所适从了。生平第一次，青藤准备好要走出西语哈勒姆区，看看世间除了追讨公道还有什么。",
+        "image": "heroes/tengu.png",
+        "abilities": [
+            {
+                "id": 4111222521,
+                "name": "citadel_ability_tengu_urn",
+                "image": "abilities/tengu/tengu_storm_flask.png",
+                "localization": "葛根炸弹"
+            },
+            {
+                "id": 1531378655,
+                "name": "citadel_ability_tangotether",
+                "image": "abilities/tengu/tengu_tether.png",
+                "localization": "守望者的盟友"
+            },
+            {
+                "id": 3642273386,
+                "name": "citadel_ability_tengu_stone_form",
+                "image": "abilities/tengu/tengu_stone_form.png",
+                "localization": "石像形态"
+            },
+            {
+                "id": 1247583368,
+                "name": "citadel_ability_tengu_airlift",
+                "image": "abilities/tengu/tengu_lightning_crash.png",
+                "localization": "空投"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "name": "hero_kali",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/kali.png",
+        "abilities": [
+            {
+                "id": 4260284622,
+                "name": "citadel_ability_kali_spinning_blade",
+                "image": "abilities/kali/kali_oscilloblade.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "citadel_ability_kali_disruptive_charge",
+                "image": "abilities/kali/kali_speed_burst.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 21628267,
+                "name": "ability_kali_dust_storm",
+                "image": "abilities/kali/kali_whirling_blade.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "ability_kali_trappers_bolo",
+                "image": "abilities/bebop/bebop_sticky_bomb.png",
+                "localization": "未找到文本"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "name": "hero_warden",
+        "localization": "守望者",
+        "role": "削弱敌人，追逐擒拿之",
+        "playstyle": "守望者在前排打头阵，他冲入战斗之中，阻止敌人有效作战。但守望者眼里的英勇之举在其他人看来却是鲁莽草率。他要是一个不留神，就会发现自己陷入了水深火热的境地中。",
+        "lore": "大多数人以为超自然力量是 50 年前降临到这个世界的。他们错了。超自然力量的存在已经塑造了好几代人的传说。只要有人害怕阴影，就有人一生都在阴影中奋战。\\n\\n守望者的家族曾世代都是好战的炼金术士，他们一直都担心某一天将要应对神秘的末日灾难，因而训练着自己。不过随着时间的流逝，这一训诫的重要性似乎变得越来越不那么重要。昔日被这个家族的人当作是衷心告诫的东西慢慢地被当成了迷信的祖辈们讲述的轶事。\\n\\n当星际大门在中央公园开启的时候，守望者的父母意识到不仅他们从小听到的是真的，而且他们还对此毫无准备。为了不让下一代人在危机之下措手不及，他们从守望者出生那天起就把他训练成超自然力量的无情摧手。目的只有一个：让守护神们永远不要再闯入这个世界。",
+        "image": "heroes/warden.png",
+        "abilities": [
+            {
+                "id": 2656490109,
+                "name": "ability_warden_crowd_control",
+                "image": "abilities/warden/warden_crowd_control.png",
+                "localization": "炼金瓶"
+            },
+            {
+                "id": 2751689917,
+                "name": "ability_warden_high_alert",
+                "image": "abilities/warden/warden_high_alert.png",
+                "localization": "意志力"
+            },
+            {
+                "id": 1656913918,
+                "name": "ability_warden_lock_down",
+                "image": "abilities/warden/warden_lock_down.png",
+                "localization": "束缚之言"
+            },
+            {
+                "id": 2702908623,
+                "name": "ability_warden_riot_protocol",
+                "image": "abilities/warden/warden_riot_protocol.png",
+                "localization": "屹立不倒"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "name": "hero_yamato",
+        "localization": "大和",
+        "role": "以精巧的手法祭出充能攻击",
+        "playstyle": "大和使用精准的攻击来消灭对手。然而，这种颇具杀伤力的打法常常使她容易遭受敌人反攻，因此她需要将每一次出击都用在刀刃上。",
+        "lore": "出身于黑道世家的香织和哥哥大和从小就知道，待父亲去世后，他俩注定要掌管“第七月”。多年来他们平起平坐地经营着这个组织，大举获利、屡创佳绩，还计划着向美国扩张。他们的想法很简单：香织留在日本，维持大本营的业务，而大和则奔赴美国，创立国际分支。只是这对兄妹没有料想到，这一计划让一些不安的下属们难以接受，他们一想到要在日本要听从香织的统领就甚是心烦。接着就发生了一场迅速而血腥的叛变。大和为了保护香织而丢了性命，不过他确保了香织和几个忠臣能够逃离日本，前往美国。当香织来到美国的时候，原本要见大和的联系人迎接了香织及其随扈。由于不熟悉日本男女的名字，那人便管她叫大和。香织本想纠正他，但她随后决定，将哥哥的记忆永远留存下来的最好办法就是继承他的名字，实现他的梦想。",
+        "image": "heroes/yamato.png",
+        "abilities": [
+            {
+                "id": 3255651252,
+                "name": "citadel_ability_power_slash",
+                "image": "abilities/yamato/yamato_power_slash.png",
+                "localization": "剑客无情"
+            },
+            {
+                "id": 2566573207,
+                "name": "citadel_ability_flying_strike",
+                "image": "abilities/yamato/yamato_flying_strike.png",
+                "localization": "飞跃进击"
+            },
+            {
+                "id": 2366960452,
+                "name": "citadel_ability_healing_slash",
+                "image": "abilities/yamato/yamato_crimson_slash.png",
+                "localization": "飞血狂刃"
+            },
+            {
+                "id": 3319782965,
+                "name": "citadel_ability_infinity_slash",
+                "image": "abilities/yamato/yamato_blinding_steel.png",
+                "localization": "暗影变身术"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "name": "hero_lash",
+        "localization": "神鞭",
+        "role": "向下俯冲，狠踏地面，冲击伤敌",
+        "playstyle": "神鞭不给敌人留下多少喘息空间，他要么从远处飞来，向毫无戒心的敌人宣战，要么在这些敌人狼狈奔逃时穷追不舍。",
+        "lore": "雅各布·神鞭是个混蛋。",
+        "image": "heroes/lash.png",
+        "abilities": [
+            {
+                "id": 3561817145,
+                "name": "citadel_ability_lash_down_strike",
+                "image": "abilities/lash/lash_death_slam.png",
+                "localization": "震撼大地"
+            },
+            {
+                "id": 2670099061,
+                "name": "citadel_ability_lash",
+                "image": "abilities/lash/lash_lash.png",
+                "localization": "鞭长可及"
+            },
+            {
+                "id": 519124136,
+                "name": "ability_lash_flog",
+                "image": "abilities/lash/lash_whip.png",
+                "localization": "鞭笞"
+            },
+            {
+                "id": 397010810,
+                "name": "citadel_ability_lash_ultimate",
+                "image": "abilities/lash/lash_counter_lash.png",
+                "localization": "死亡猛击"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "name": "hero_viscous",
+        "localization": "魔液",
+        "role": "恣意翻滚，刀枪不入",
+        "playstyle": "魔液凭借巧妙的闪躲和对治疗技能恰到好处的使用，令对手愤恨不已。凭此他可以承受住敌人最猛烈的攻击。",
+        "lore": "百慕大三角从来就不是荒诞传说。它是大西洋之下的隐秘网络。大多数时候，从这一星际大门逃离出来的东西并不危险（比如尼斯湖水怪），不过现在，某个仅被称作“大反派”的黑暗而凶险之物在海洋中作祟，这让海中的居民们心惊胆战。\\n\\n但其中一位居民——一只能通灵的海葵决定做点什么。它召唤出幽灵般的黏液状身体，好让它能在海面上穿行。魔液竭尽所能地试图召唤守护神，以使深海家园免受潜伏在底部的不速之客侵扰。",
+        "image": "heroes/viscous.png",
+        "abilities": [
+            {
+                "id": 3247040238,
+                "name": "viscous_goo_grenade",
+                "image": "abilities/viscous/viscous_goo_ball.png",
+                "localization": "爆汁魔球"
+            },
+            {
+                "id": 3788152387,
+                "name": "viscous_restorative_goo",
+                "image": "abilities/viscous/viscous_restorative_goo.png",
+                "localization": "复原立方"
+            },
+            {
+                "id": 4206531918,
+                "name": "viscous_goo_bowling_ball",
+                "image": "abilities/viscous/viscous_goo_sphere.png",
+                "localization": "浓浆滚滚"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "name": "hero_gunslinger",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/gunslinger.png",
+        "abilities": [
+            {
+                "id": 2219528978,
+                "name": "gunslinger_rapid_fire",
+                "image": "abilities/sumo/sumo_stomp.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 809682515,
+                "name": "gunslinger_rocket_launcher",
+                "image": "abilities/sumo/sumo_stomp.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "gunslinger_tenacity",
+                "image": "abilities/sumo/sumo_stomp.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "gunslinger_sleep_bomb",
+                "image": "abilities/sumo/sumo_stomp.png",
+                "localization": "未找到文本"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "name": "hero_yakuza",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/yakuza.png",
+        "abilities": [
+            {
+                "id": 0,
+                "name": "yakuza_shakedown_target",
+                "image": "abilities/theboss/the_boss_shakedown.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "yakuza_kobun",
+                "image": "abilities/theboss/the_boss_hired_muscle.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "yakuza_protection_racket",
+                "image": "abilities/theboss/the_boss_protection_racket.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "yakuza_setting_sun",
+                "image": "abilities/theboss/the_boss_setting_sun.png",
+                "localization": "未找到文本"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "name": "hero_genericperson",
+        "localization": "无名氏",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/genericperson.png",
+        "abilities": [
+            {
+                "id": 0,
+                "name": "genericperson_ability_1",
+                "image": "abilities/genericperson/genericperson_ability_1.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "genericperson_ability_2",
+                "image": "abilities/genericperson/genericperson_ability_2.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "genericperson_ability_3",
+                "image": "abilities/genericperson/genericperson_ability_3.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 1254152082,
+                "name": "genericperson_ability_4",
+                "image": "abilities/genericperson/genericperson_ability_4.png",
+                "localization": "未找到文本"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "name": "hero_tokamak",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/tokamak.png",
+        "abilities": [
+            {
+                "id": 1564303265,
+                "name": "tokamak_hot_shot",
+                "image": "abilities/tokamak/tokamak_hot_shot.png",
+                "localization": "热火朝天"
+            },
+            {
+                "id": 0,
+                "name": "tokamak_dying_star",
+                "image": "abilities/tokamak/tokamak_dying_star.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "tokamak_radiance",
+                "image": "abilities/tokamak/tokamak_blinding_radiance.png",
+                "localization": "致盲之光"
+            },
+            {
+                "id": 0,
+                "name": "tokamak_crimson_cannon",
+                "image": "abilities/tokamak/tokamak_crimson_cannon.png",
+                "localization": "未找到文本"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "name": "hero_wrecker",
+        "localization": "破坏王",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "当异度风暴最初袭击纽约时，它不仅仅让全世界都陷入了一个新的神秘主义时代，还改变了地缘政治的面貌。从中情局雇佣的天眼神探在威胁势力喧宾夺主几十年前就令其无所遁形，到玄冥协议在烟雾缭绕的房间里一锤定音，数不清的战争和暴行得到遏止。倘若让其发生，那么历史将被重塑。但这并不意味着没有战争出现，只不过战争的方式发生了变化。\\n\\n超自然军事公司在此时赫然登场。这些公司利用外星生物和各种血魔法，得以绕过这个国家洞察万象的神启先知们设立的防范措施，这让他们能够为想要发动战争的国家充当代理人。\\n\\n破坏王就是这其中一名士兵。\\n\\n破坏王受雇于“埃尔特里奇战术方案”（菲尔法克斯实业的子公司），他本领超群，哪有丰厚赏金就往哪儿闯。人人都知道，让其他超自然军事公司望而却步的不法勾当，他反倒当仁不让。",
+        "image": "heroes/wrecker.png",
+        "abilities": [
+            {
+                "id": 4062064977,
+                "name": "ability_wrecking_ball",
+                "image": "abilities/wrecker/wrecking_ball.png",
+                "localization": "毁灭之球"
+            },
+            {
+                "id": 208809857,
+                "name": "ability_wrecker_salvage",
+                "image": "abilities/wrecker/salvage.png",
+                "localization": "吞灭"
+            },
+            {
+                "id": 0,
+                "name": "ability_scrap_blast",
+                "image": "abilities/wrecker/scrap_blast.png",
+                "localization": "被减速"
+            },
+            {
+                "id": 0,
+                "name": "ability_wrecker_teleport",
+                "image": "abilities/wrecker/wrecking_crew.png",
+                "localization": "未找到文本"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "name": "hero_rutger",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/rutger.png",
+        "abilities": [
+            {
+                "id": 4182904284,
+                "name": "rutger_rocket",
+                "image": "abilities/rutger/rutger_rocket_launcher.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 639385332,
+                "name": "rutger_force_field",
+                "image": "abilities/rutger/rutger_force_field.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "rutger_cheat_death",
+                "image": "abilities/rutger/rutger_cheat_death.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 363299194,
+                "name": "rutger_pulse",
+                "image": "abilities/rutger/rutger_pulse.png",
+                "localization": "电子脉冲"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "hero_synth",
+        "localization": "口袋",
+        "role": "潜入敌军后方，乱其阵脚",
+        "playstyle": "口袋身材轻佻，配有一把强大的霰弹枪。他能够短暂地躲进一个神秘的旅行箱中，并通过飞行斗篷进行远距离传送，以此逃离近在眼前的敌人。",
+        "lore": "艾伦·菲尔法克斯是菲尔法克斯实业的头号继承人。艾伦 18 岁生日当天惨遭枪击，倒地不起。自那之后的五年里这家伙就一直隐姓埋名地活着。艾伦不知道是谁在试图阻止自己继承父母的公司……但是在菲尔法克斯实业这个利欲横流的贼窝里，谁都有嫌疑。\\n\\n艾伦改称自己为“口袋”，并竭力隐藏自己的真实身份。这么做不仅仅是为了保护自己，也是为了寻找脱离父母的、只属于自己的认同感。",
+        "image": "heroes/synth.png",
+        "abilities": [
+            {
+                "id": 938149308,
+                "name": "synth_barrage",
+                "image": "abilities/synth/synth_barrage.png",
+                "localization": "弹幕"
+            },
+            {
+                "id": 1976701714,
+                "name": "synth_plasma_flux",
+                "image": "abilities/synth/synth_plasma_flux.png",
+                "localization": "飞行斗篷"
+            },
+            {
+                "id": 3747867012,
+                "name": "synth_pulse",
+                "image": "abilities/synth/synth_pulse.png",
+                "localization": "附魔师的行李箱"
+            },
+            {
+                "id": 2954330093,
+                "name": "synth_affliction",
+                "image": "abilities/synth/synth_affliction.png",
+                "localization": "痛苦"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "name": "hero_thumper",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/thumper.png",
+        "abilities": [
+            {
+                "id": 348689004,
+                "name": "thumper_ability_1",
+                "image": "abilities/thumper/thumper_ability_1.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 2086284285,
+                "name": "thumper_ability_2",
+                "image": "abilities/thumper/thumper_ability_2.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "thumper_ability_3",
+                "image": "abilities/thumper/thumper_ability_3.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "thumper_ability_4",
+                "image": "abilities/thumper/thumper_ability_4.png",
+                "localization": "仓鼠"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "name": "hero_mirage",
+        "localization": "蜃景",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "金尼是当代世界较为奇异的族群之一。他们拥有强大的法力，但施展有度。他们没法保持人形超过 48 分钟，这之后就不得不回到躯壳里。正因如此，大多数金尼会雇佣人类守卫，负责接送、保护、陪伴他们。\\n\\n蜃景就是这样一个守卫。他受雇于金尼大使那沙拉·迪昂，目前在纽约参与外交任务。金尼们希望能通过跟美国政府协商买下怀俄明州一部分土地，好让金尼族建立属于自己的主权国家。",
+        "image": "heroes/mirage.png",
+        "abilities": [
+            {
+                "id": 1336069669,
+                "name": "mirage_tornado",
+                "image": "abilities/mirage/mirage_tornado.png",
+                "localization": "龙卷风"
+            },
+            {
+                "id": 3733594387,
+                "name": "mirage_fire_beetles",
+                "image": "abilities/mirage/mirage_fire_beetles.png",
+                "localization": "火甲虫"
+            },
+            {
+                "id": 2221949202,
+                "name": "mirage_sand_phantom",
+                "image": "abilities/mirage/mirage_sand_phantom.png",
+                "localization": "旋舞之僧"
+            },
+            {
+                "id": 0,
+                "name": "mirage_djinns_reach",
+                "image": "abilities/mirage/mirage_djinns_reach.png",
+                "localization": "充能后发射一个投射物，击中第一个敌方英雄时，将其与附近的最多两个敌方英雄<span class=\\"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "name": "hero_slork",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/slork.png",
+        "abilities": [
+            {
+                "id": 3295213753,
+                "name": "slork_riptide",
+                "image": "abilities/slork/slork_scald.png",
+                "localization": "激流"
+            },
+            {
+                "id": 1335487072,
+                "name": "slork_chomp",
+                "image": "abilities/slork/slork_chomp.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "slork_last_breath",
+                "image": "abilities/slork/slork_current.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 599179891,
+                "name": "slork_ability_invis",
+                "image": "abilities/slork/slork_invis.png",
+                "localization": "未找到文本"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "name": "hero_cadence",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/cadence.png",
+        "abilities": [
+            {
+                "id": 1157620447,
+                "name": "cadence_ability_anthem",
+                "image": "abilities/cadence/cadence_ability_1.png",
+                "localization": "圣歌"
+            },
+            {
+                "id": 421275722,
+                "name": "cadence_ability_silencecontraptions",
+                "image": "abilities/cadence/cadence_ability_2.png",
+                "localization": "沉默装置"
+            },
+            {
+                "id": 957095276,
+                "name": "cadence_ability_lullaby",
+                "image": "abilities/cadence/cadence_ability_3.png",
+                "localization": "摇篮曲"
+            },
+            {
+                "id": 599532073,
+                "name": "cadence_ability_crescendo",
+                "image": "abilities/cadence/cadence_ability_4.png",
+                "localization": "渐强乐段"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "name": "hero_targetdummy",
+        "localization": "假人靶子",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "heroes/targetdummy.png",
+        "abilities": [
+            {
+                "id": 3433393074,
+                "name": "targetdummy_ability_1",
+                "image": "abilities/targetdummy/targetdummy_ability_1.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "targetdummy_ability_2",
+                "image": "abilities/targetdummy/targetdummy_ability_2.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 983726794,
+                "name": "targetdummy_ability_3",
+                "image": "abilities/targetdummy/targetdummy_ability_3.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 0,
+                "name": "targetdummy_ability_4",
+                "image": "abilities/targetdummy/targetdummy_ability_4.png",
+                "localization": "未找到文本"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "name": "hero_bomber",
+        "localization": "未找到英雄",
+        "role": "未找到文本",
+        "playstyle": "未找到文本",
+        "lore": "未找到文本",
+        "image": "",
+        "abilities": [
+            {
+                "id": 0,
+                "name": "ability_charged_bomb",
+                "image": "abilities/bebop/bebop_sticky_bomb.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 3875361929,
+                "name": "ability_bomber_ability02",
+                "image": "abilities/nano/nano_roller_bomb.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 4081662205,
+                "name": "ability_bomber_ability03",
+                "image": "abilities/nano/nano_roller_bomb.png",
+                "localization": "未找到文本"
+            },
+            {
+                "id": 3232290270,
+                "name": "ability_bomber_ult",
+                "image": "abilities/nano/nano_tunnel_vision.png",
+                "localization": "未找到文本"
+            }
+        ]
+    }
+]

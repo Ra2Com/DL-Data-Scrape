@@ -1,0 +1,5 @@
+DEADLOCK_PATH = "E:/SteamLibrary/steamapps/common/Deadlock/game/citadel"
+PATH_TO_GC = "resource/localization/citadel_gc/citadel_gc_schinese.txt"
+PATH_TO_HEROES = "resource/localization/citadel_heroes/citadel_heroes_schinese.txt"
+PATH_TO_MODS = "resource/localization/citadel_mods/citadel_mods_schinese.txt"
+DECOMPILER = "./Decompiler/Decompiler.exe"
